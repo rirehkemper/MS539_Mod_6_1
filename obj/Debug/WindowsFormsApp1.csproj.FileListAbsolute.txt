@@ -1,0 +1,45 @@
+C:\Users\arehkemper\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\arehkemper\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\arehkemper\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\arehkemper\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\arehkemper\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\arehkemper\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\arehkemper\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\arehkemper\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\arehkemper\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\arehkemper\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resource1.resources
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HIPPA_Form.resources
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\rireh\Desktop\Coding Projects\OT-Form-main\OT_Form1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
